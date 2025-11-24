@@ -1,6 +1,6 @@
 ## Hi there, I'm Tyler 👋
 
-I am a 19-year-old developer with a passion for creating innovative solutions through coding. Over the years, I have honed my skills in multiple programming languages and have had the opportunity to work on a wide variety of exciting projects. My journey in development began with a curiosity for technology and has since evolved into a deep-seated passion for solving real-world problems through code.
+I am a 21-year-old developer with a passion for creating innovative solutions through coding. Over the years, I have honed my skills in multiple programming languages and have had the opportunity to work on a wide variety of exciting projects. My journey in development began with a curiosity for technology and has since evolved into a deep-seated passion for solving real-world problems through code.
 
 
 <h3>Skills</h3>
